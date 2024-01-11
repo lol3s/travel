@@ -1,0 +1,353 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+}
+@media (max-width: 1000px){
+
+.logo{
+color: #35AFF4;
+width: 50px;
+height: 26px;
+margin-top: 25px;
+margin-left: 5%;
+font-family: Montserrat;
+font-size: 25px;
+text-align: center;
+display: block;
+}
+.nav {
+    color: white;
+}
+.house {
+    color: white;
+}
+.log {
+    color: white;
+}
+.white {
+    color: white;
+    border: 0px;
+    width: 0;
+    height: 0;
+    border-radius:0 ;
+    padding: 0;
+}
+.black {
+    color: white;
+    background-color: white;
+    width: 0;
+    height: 0;
+    border-radius: 0;
+    padding: 0px;
+}
+.box1 {
+    background: #0D1C2E;
+    width: 40px;
+    height: 4px;
+    margin-left: 95%;
+    border-radius: 2px;
+    margin-top: -9px;
+}
+.box2 {
+    background: #0D1C2E;
+    width: 40px;
+    height: 4px;
+    margin-left: 95%;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.box3 {
+    background: #0D1C2E;
+    width: 40px;
+    height: 4px;
+    margin-left: 95%;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+
+.mtext {
+    margin-top: -30px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 90px;
+}
+
+
+.img {
+    width: 400px;
+    height: 350px;
+    margin-top: 440px;
+    margin-left: 155px;
+}
+
+.text {
+    width: 450px;
+    height: 50px;
+    margin-top: -750px;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 140px;
+}
+
+.tablesearch {
+    margin-top: 180px;
+    margin-left: 70px;
+}
+
+.maintex {
+    margin-top: 500px;
+    width: 400px;
+    height: 70px;
+    text-align: center;
+    margin-left: 120px;
+}
+
+
+
+.TableForCont {
+    background-color: #FFFFFF;
+    width: 1513px;
+    height: 850px;
+    margin-top: 200px;
+    margin-left: 134px;
+    border-radius: 12px;
+    display: block;
+}
+
+.italy {
+    background-image: url(https://i.pinimg.com/564x/af/bc/5a/afbc5ae0be9d1a3f5f7835f29f1b3694.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 303.72px;
+    width: 304px;
+    border-radius: 20px;
+    float: left;
+    margin-top: -100px;
+}
+
+.baly {
+    background-image:url(https://meleedose.com/wp-content/uploads/2023/09/Does-THCa-Make-You-Feel-High_.png.webp);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 303.72px;
+    width: 304px;
+    border-radius: 20px;
+    float: left;
+    margin-top: 300px;
+    margin-left: -305px;
+}
+
+.bankcok{
+    background-image:url(https://4traveler.me/sites/default/files/styles/collection_webp/public/travel/catalog/big_palace_kat.jpg.webp?itok=0pgmDxpe);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 303.72px;
+    width: 304px;
+    border-radius: 20px;
+    float: left;
+    margin-top: 720px;
+    margin-left: -306px;
+}
+
+.paris{
+    background-image:url(https://farm3.static.flickr.com/2216/2393979242_3124073ec1.jpg?v=0);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 303.72px;
+    width: 304px;
+    border-radius: 20px;
+    float: left;
+    margin-top: 30px;
+}
+
+.usa {
+    background-image:url(https://images.techinsider.ru/upload/img_cache/cc5/cc5daae37048e33cfb50ea96fed279d3_ce_1920x1278x0x483_cropped_666x444.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 303.72px;
+    width: 304px;
+    border-radius: 20px;
+    float: left;
+    margin-top: 440px;
+    margin-left: -305px;
+}
+
+.oaa {
+    background-image:url(https://www.mentoday.ru/upload/img_cache/894/894243ddfb4f21260e7908d651192d13_ce_1920x1280x0x759_cropped_666x444.webp);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 303.72px;
+    width: 304px;
+    border-radius: 20px;
+    float: left;
+    margin-top: 820px;
+    margin-left: -306px;
+}
+
+.TableForCont p {
+    display: inline;
+    
+}
+
+.TableForCont tr th {
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.gray {
+    color: #909090;
+}
+.gray p {
+    text-align: center;
+    width: 306px;
+    height: 50px;
+}
+
+.dolor {
+    color: #35AFF4;
+}
+
+.money {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 24px;
+}
+.text55 {
+    height: 22px;
+    margin-bottom: -15px;
+}
+
+
+.venec {
+    float: left;
+    margin-left: 60px;
+    margin-top: -800px;
+}
+
+.indo {
+    width: 180px;
+    height: 1px;
+    float: left;
+    margin-left: 60px;
+    margin-top: -400px;
+}
+
+.tailand {
+    float: left;
+    margin-right: 60px;
+    margin-left: 60px;
+    
+}
+
+.french {
+    float: left;
+    margin-left: 60px;
+    margin-top: -790px;
+}
+
+.nyw {
+    width: 180px;
+    height: 22px;
+    float: left;
+    margin-top: -385px;
+    margin-left: 60px;
+}
+
+.dub {
+    float: left;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.tablwt {
+    width: 306px;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    margin-top: -830px;
+}
+
+.tablws {
+    width: 306px;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    margin-top: -430px;
+    margin-left: -795px;
+    position: relative;
+}
+
+.tablwr {
+    width: 306px;
+    height: 50px;
+    float: left;
+    line-height: 50px;
+    margin-left: -795px;
+}
+.tableFoot {
+    z-index: 2;
+    color: white;
+    margin-left: 45%;
+    width: 380px;
+    height: 250px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: left;
+    float: left;
+    margin-top: 50px;
+}
+
+.TextFoot  {
+    z-index: 0;
+color: #FFFFFF;
+width: 200px;
+height: 60px;
+display: block;
+margin-left: 7%;
+margin-top: 10%;
+position: absolute;
+font-size: 12px;
+line-height: 20px;
+font-family: Montserrat;
+text-align: left;
+
+}
+
+.LogoFoot {
+    z-index: 3;
+    color: #35AFF4;
+    width: 104px;
+    height: 26px;
+    margin-top: 2%;
+    margin-left: 7%;
+    position: absolute;
+    display: inline;
+    font-family: Montserrat;
+}
+
+
+.footer {
+    width: 100%;
+    height: 357px;
+    margin-top: 1600px;
+    background: #181818;
+    z-index: 0;
+}
+
+
+
+
+
+
+
+}
